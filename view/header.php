@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="mmm53.ripe@gmail.com">
     <link rel="shortcut icon" href="#">
-    <title>Sticky Footer Navbar Template for Bootstrap</title>
+    <title><?= $pageTitle ?></title>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="vendor/bootstrap/css/sticky-footer-navbar.css" rel="stylesheet">
 </head>
@@ -23,7 +23,6 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">

@@ -1,6 +1,6 @@
 <div id="footer">
     <div class="container">
-        <p class="text-muted">Garry Jane</p>
+        <p class="text-muted"><center>GarryJane © 2017</center></p>
     </div>
 </div>
 </body>
